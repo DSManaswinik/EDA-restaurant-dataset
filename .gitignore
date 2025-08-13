@@ -1,0 +1,7 @@
+echo *.csv>> .gitignore
+echo *.tsv>> .gitignore
+echo *.zip>> .gitignore
+echo *.parquet>> .gitignore
+echo *.h5>> .gitignore
+echo *.pkl>> .gitignore
+echo .ipynb_checkpoints/>> .gitignore
